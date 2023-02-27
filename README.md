@@ -1,2 +1,2 @@
 # WMAUG-Meetings
-Meetup information
+Repo to store/share meeting minutes for monthly West Michigan Amazon Users Group meetups.
