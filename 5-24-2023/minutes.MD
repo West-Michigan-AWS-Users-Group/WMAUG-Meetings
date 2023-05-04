@@ -4,7 +4,7 @@ Attendees:
   - Trent Nielsen
 
 Topics: 
-  - Building a Text-to-Speech Solution on AWS with Polly, CloudFront, and S3 
+  - Building a Text-to-Speech Solution on AWS with Python, Polly, CloudFront, and S3 
 
 Discussion:
   - App use case
