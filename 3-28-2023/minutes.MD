@@ -12,5 +12,3 @@ Discussion:
   - TerraSpace
 
 Presentation link - https://docs.google.com/presentation/d/1S7SfSDWyz0d-QoqBBo3kWay3CBcOjYsrqhCLU44X_C4/edit?usp=sharing
-
-
