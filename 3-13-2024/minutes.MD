@@ -9,7 +9,7 @@ Attendees:
   - Sreenivasa Gopalam
   - Trivikrama Rao Majji
   - Adam Broadbent
-  - Travis 
+  - Travis McGeehan
   - Mathew Shan
 
 Topics: 
