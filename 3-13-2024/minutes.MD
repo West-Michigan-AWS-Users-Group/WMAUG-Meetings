@@ -9,6 +9,8 @@ Attendees:
   - Sreenivasa Gopalam
   - Trivikrama Rao Majji
   - Adam Broadbent
+  - Travis 
+  - Mathew Shan
 
 Topics: 
   - Automating Pull Requests with Bedrock
